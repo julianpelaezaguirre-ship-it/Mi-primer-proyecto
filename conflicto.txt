@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 "Versi¢n en main" 
-"Versi¢n en prueba2"
+=======
+"Versi¢n en prueba2" 
+>>>>>>> prueba2
